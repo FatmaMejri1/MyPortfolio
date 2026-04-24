@@ -114,7 +114,7 @@ export function Footer() {
             © {new Date().getFullYear()} MEJRI Fatma. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground flex items-center gap-1">
-            Built with <Heart className="h-3.5 w-3.5 text-primary" /> using Next.js & Tailwind CSS
+            Build with Passion <Heart className="h-3.5 w-3.5 text-primary" />
           </p>
         </div>
       </div>
